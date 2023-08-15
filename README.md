@@ -22,7 +22,7 @@ This HTML specifies that you want to include an image, and the source file for t
 
 The HTML command `<br>` will cause a line break.
 
-To view the webpage, you need to start NodeJS by opening a terminal window and going to your git project directory and running the command `node server317.js` form your github directory.  Then open the firefox web browser in the virtual machine (not your host computer) and go the the URL: `http://localhost:3000/`
+To view the webpage, you need to start NodeJS by opening a terminal window and going to your git project directory  (not from within the public directory) and running the command `node server317.js` form your github directory.  Then open the firefox web browser in the virtual machine (not your host computer) and go the the URL: `http://localhost:3000/`
 
 Have fun with the assignment as you create and serve your own web page. 
 
